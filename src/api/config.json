@@ -1,0 +1,4 @@
+{
+  "apiDomain": "http://localhost:4001/api",
+  "bearerTokenKey": "dropalley-bearer-token"
+}
